@@ -1,0 +1,14 @@
+{
+    "name": "chloe/captcha",
+    "description": "an independent captcha class vendor",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Chloezhang17",
+            "email": "952637517@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
